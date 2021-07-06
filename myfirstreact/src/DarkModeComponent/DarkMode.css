@@ -1,0 +1,15 @@
+#DarkMode {
+  position: absolute;
+  top: 20px;
+  right: 0px;
+}
+.dark {
+  right: 200px;
+  background: black;
+}
+.dark h1 {
+  color: white;
+}
+button {
+  border-radius: 200px;
+}
