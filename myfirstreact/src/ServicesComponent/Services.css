@@ -44,8 +44,6 @@
 }
 
 .services .description {
-  position: fixed;
-  display: none;
   color: black;
   top: 20px;
   margin-left: 80px;
